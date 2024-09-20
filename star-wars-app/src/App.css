@@ -1,0 +1,20 @@
+html, .App {
+    background-color: #3b444b;
+}
+
+body {
+    margin: 5%;
+}
+
+.film-instance {
+    margin-top: 3rem;
+}
+
+.film-data-wrapper {
+    background-color: #3b444b;
+    justify-content: center;
+}
+
+#welcome-title {
+    color: #f0ece1;
+}

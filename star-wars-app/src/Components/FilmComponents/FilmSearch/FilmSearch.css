@@ -1,0 +1,32 @@
+.film-search {
+    color: #f0ece1;
+    margin-top: 2rem;
+}
+
+.form-control {
+    border: #e5703d;
+    border-radius: 0.5rem;
+    border-style: solid;
+    border-width: 0.2rem;
+    padding: 0.5rem 0.75rem;
+    font-size: 1.25rem;
+    width: 50%;
+    font-weight: 600;
+}
+
+#search-instruction {
+    font-size: 1.35rem;
+}
+
+@media (max-width: 768px) {
+    .form-control {
+        width: 75%;
+    }
+}
+
+/* For mobile devices */
+@media (max-width: 576px) {
+    .form-control {
+        width: 90%;
+    }
+}

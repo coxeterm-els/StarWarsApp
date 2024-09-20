@@ -1,0 +1,24 @@
+.film-instance {
+    background-color: #3b444b;
+}
+
+body {
+    margin: 5%;
+}
+
+.card {
+    padding: 2rem;
+    color: #080808;
+}
+
+.btn-custom-orange {
+    background-color: #dd4e1e;
+    color: #f0ece1;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn-custom-orange:hover {
+    background-color: #c43c17;
+    color: #f0ece1;
+}

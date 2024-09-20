@@ -1,0 +1,31 @@
+.character-dashboard {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.character-list {
+    width: 40%;
+    margin-right: 20px;
+}
+
+.character-details {
+    width: 55%;
+    border-left: 2px solid #ddd;
+    padding-left: 20px;
+}
+
+.btn-custom-dark {
+    background-color: #3b444b;
+    color: #f0ece1;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.btn-custom-dark:hover {
+    background-color: #2e373b;
+    color: #d9d3c9;
+}
+
+.character-list-item {
+    font-size: 1.25rem;
+}
