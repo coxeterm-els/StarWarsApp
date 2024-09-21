@@ -3,7 +3,7 @@
 ### Setup Instructions
 
 1. Run `git clone https://github.com/harrytidball/StarWarsApp.git` to clone the repository.
-2. Navigate to the project directory with `cd star-wars-app`.
+2. Navigate through the project directory to `cd star-wars-app`.
 3. Ensure Node.js is installed on your machine and run `npm install` to install the project dependencies.
 4. Enter `npm start` to start the development server.
 5. The application can be found at http://localhost:3000 by default.
